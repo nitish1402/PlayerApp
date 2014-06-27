@@ -1,0 +1,188 @@
+[
+  {
+    "long_name": "Gaebl Clichy",
+    "stars": 3.5,
+    "short_name": "Clichy",
+    "sindex": 0,
+    "player_type": "DF",
+    "natural_role": "LFB",
+    "image": "image/Clichy.jpg"
+  },
+
+  {
+    "long_name": "Cesc Febregas",
+    "stars": 4.0,
+    "short_name": "Febregas",
+    "sindex": 1,
+    "player_type": "MF",
+    "natural_role": "CM"
+  },
+  {
+    "long_name": "Manuel Almunia",
+    "stars": 3.0,
+    "short_name": "Almunia",
+    "sindex": 2,
+    "player_type": "GK",
+    "natural_role": "GK"
+  },
+  {
+    "long_name": "Robin van Persie",
+    "stars": 4.0,
+    "short_name": "vanPersie",
+    "sindex": 3,
+    "player_type": "AT/MF",
+    "natural_role": "RW/LF/RF/S"
+  },
+  {
+    "long_name": "Johan Djourou",
+    "stars": 2.5,
+    "short_name": "Djourou",
+    "sindex": 4,
+    "player_type": "DF",
+    "natural_role": "CD"
+  },
+  {
+    "long_name": "Nicklas Bendtner",
+    "stars": 3.0,
+    "short_name": "Bendtner",
+    "sindex": 5,
+    "player_type": "AT",
+    "natural_role": "LF/RF/S"
+  },
+  {
+    "long_name": "Emmanuel Eboue",
+    "stars": 3.0,
+    "short_name": "Eboue",
+    "sindex": 6,
+    "player_type": "DF/MF",
+    "natural_role": "RFB/RWB/RM"
+  },
+  {
+    "long_name": "Carlos Vela",
+    "stars": 2.5,
+    "short_name": "CarlosVela",
+    "sindex": 7,
+    "player_type": "AT",
+    "natural_role": "LF/S"
+  },
+  {
+    "long_name": "Abou Diaby",
+    "stars": 3.0,
+    "short_name": "Diaby",
+    "sindex": 8,
+    "player_type": "MF",
+    "natural_role": "CM"
+  },
+  {
+    "long_name": "Theo Walcott",
+    "stars": 3.0,
+    "short_name": "Walcott",
+    "sindex": 9,
+    "player_type": "AT/MF",
+    "natural_role": "RW/LF/RF"
+  },
+  {
+    "long_name": "Alex Song",
+    "stars": 3.0,
+    "short_name": "Song",
+    "sindex": 10,
+    "player_type": "MF",
+    "natural_role": "CDM"
+  },
+  {
+    "long_name": "Tomus Rosicky",
+    "stars": 3.5,
+    "short_name": "Rosicky",
+    "sindex": 11,
+    "player_type": "MF",
+    "natural_role": "CAM"
+  },
+  {
+    "long_name": "Kieran Gibbs",
+    "stars": 2.5,
+    "short_name": "Gibbs",
+    "sindex": 12,
+    "player_type": "DF/MF",
+    "natural_role": "LFB/LWB/LW"
+  },
+  {
+    "long_name": "Denilson",
+    "stars": 3.0,
+    "short_name": "Denilson",
+    "sindex": 13,
+    "player_type": "MF",
+    "natural_role": "CM"
+  },
+  {
+    "long_name": "Lukasz Fabianski",
+    "stars": 3.0,
+    "short_name": "Fabianski",
+    "sindex": 14,
+    "player_type": "GK",
+    "natural_role": "GK"
+  },
+  {
+    "long_name": "Bacary Sagna",
+    "stars": 3.5,
+    "short_name": "Sagna",
+    "sindex": 15,
+    "player_type": "DF",
+    "natural_role": "RFB"
+  },
+  {
+    "long_name": "Jack Wilshere",
+    "stars": 3.0,
+    "short_name": "Wilshere",
+    "sindex": 16,
+    "player_type": "MF",
+    "natural_role": "CAM/LW"
+  },
+  {
+    "long_name": "Samir Nasri",
+    "stars": 3.5,
+    "short_name": "Nasri",
+    "sindex": 17,
+    "player_type": "MF",
+    "natural_role": "CAM/RW"
+  },
+  {
+    "long_name": "Andrei Arshavin",
+    "stars": 4.0,
+    "short_name": "Arshavin",
+    "sindex": 18,
+    "player_type": "AT/MF",
+    "natural_role": "CAM/LF/RF/S"
+  },
+  {
+    "long_name": "Thomas Vermaelen",
+    "stars": 3.5,
+    "short_name": "Vermaelen",
+    "sindex": 19,
+    "player_type": "DF",
+    "natural_role": "CD"
+  },
+  {
+    "long_name": "Marouane Chamakh",
+    "stars": 3.0,
+    "short_name": "Chamakh",
+    "sindex": 20,
+    "player_type": "AT",
+    "natural_role": "RF/S"
+  },
+  {
+    "long_name": "Laurent Kocielny",
+    "stars": 3.0,
+    "short_name": "Kocielny",
+    "sindex": 21,
+    "player_type": "DF",
+    "natural_role": "CD"
+  },
+  {
+    "long_name": "Sebastien Squillaci",
+    "stars": 3.0,
+    "short_name": "Squillaci",
+    "sindex": 22,
+    "player_type": "DF",
+    "natural_role": "CD"
+  }
+]

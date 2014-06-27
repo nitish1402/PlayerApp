@@ -1,0 +1,33 @@
+<div ng-controller="ImageController">
+<div class="col-md-6" class="thumbnail">
+<img ng-src="{{player.images[current]}}" width="400px" height="291px">
+</div>
+<h3>Image Gallery</h3>
+	<div class="img-thumbnail" ng-repeat="img in player.images">
+		
+	    <img ng-src="{{img}}" width="100px" height="100px" ng-mouseover="setCurrent($index)">
+	</div>
+
+<div class="col-md-8">
+	<h3>About</h3>
+	{{player.about}}
+</div>
+<div class="col-md-8">
+	<h3>Clubs</h3>
+	<ul>
+		<li ng-repeat="club in player.clubs">{{club}}</li>
+	</ul>
+</div>
+<div class="col-md-8">
+	<h3>Personal Information</h3>
+<div class="row">
+<ul>
+	<li>Full Name:{{player.perinfo.Fullname}}</li>
+	<li>Date of Birth:{{player.perinfo.Dob | date:''}}</li>
+	<li>Place of Birth:{{player.perinfo.Pob}}</li>
+	<li>Height:{{player.perinfo.Height}}</li>
+	<li>Playing Position:{{player.perinfo.Playpos}}</li>
+</ul>
+</div>
+</div>
+</div>
