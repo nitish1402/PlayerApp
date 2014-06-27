@@ -1,0 +1,35 @@
+<div class="container fluid">
+
+	<div class="row">
+		<div class="col-md-2">
+
+		Search Box:<input type="search" ng-model="psearch" placeholder="enter something to search"/>
+		Sort By:
+		<select ng-model="optionvalue">
+			<option value="long_name">AlphabeticalLong</option>
+			<option value="stars">Stars</option>
+			<option value="short_name">AlphabeticalShort</option>
+			<option value="squad_index">Index</option>
+			<option value="player_type">Player_type</option>
+			<option value="natural_role">Role</option>
+		</select>
+	    </div>
+		<div class="col-md-10 ">
+		<ul>
+		    <li class="thumbnail" ng-repeat="player in viewP.players|filter:psearch|orderBy:optionvalue">
+			    <div class="col-md-3">
+			    <a href="#/players/{{player.short_name}}" class="thumb"><img class="img-responsive" ng-src="{{player.image}}"></a>
+			    </div>
+			    <a href="#/players/{{player.short_name}}" >{{player.short_name}}</a>
+			    
+			    <p>Stars: {{player.stars}}</p>	
+			    <p>Name: {{player.long_name}}</p>
+			    <p>Squad Index: {{player.sindex}}</p>
+			    <p>Player type: {{player.player_type}}</p>
+			    <p>Role: {{player.natural_role}}</p>
+			    
+	       </li>
+        </ul>
+    </div>
+    </div>
+</div>
