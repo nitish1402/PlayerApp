@@ -1,12 +1,12 @@
 [
   {
-    "long_name": "Gaebl Clichy",
+    "long_name": "Iker Casillas Fernández",
     "stars": 3.5,
-    "short_name": "Clichy",
-    "sindex": 0,
-    "player_type": "DF",
-    "natural_role": "LFB",
-    "image": "image/clichy/clichy.jpg"
+    "short_name": "Casillas",
+    "sindex": 1,
+    "player_type": "GK",
+    "natural_role": "GK",
+    "image": "image/casillas/casillas.jpg"
   },
 
   {
