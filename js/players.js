@@ -5,7 +5,7 @@
 	app.controller('MyController',['$http',function($http){
 		var store = this;
 		this.players = [];
-		
+
 		var promise = $http({
 			method : 'GET',
 			url : 'js/players.json'
@@ -15,13 +15,13 @@
 			store.players = data;
 
 		});
-		
+
 	}]
 	);
 
 	app.controller('playerDetail',['$scope','$routeParams','$http',function($scope,$routeParams,$http){
 		$scope.name = $routeParams.playerShort_name;
-		$http.get('js/'+$scope.name+'.json').success(function(data){
+		$http.get('js/players/'+$scope.name+'.json').success(function(data){
 			$scope.player = data;
 		});
 		//alert($scope.playerLong_name);
