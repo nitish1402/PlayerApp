@@ -1,22 +1,21 @@
 {
-	"about":"Gaël Clichy (French pronunciation: ​[ɡa.ɛl kli.ʃi] ; born 26 July 1985) is a French professional footballer who plays for English club Manchester City and the France national football team. He is predominantly left footed, he primarily plays as a left-back that is also capable of playing as an offensive-minded wingback. Clichy is described as a player who possesses 'almost unrivaled stamina' that is 'quick in the tackle and willing to drive forward'.[3] He was a member of Arsenal's famous Invincibles team before leaving the club in 2011.[4]",
+	"about":"Iker Casillas Fernández (Spanish pronunciation: [ˈiker kaˈsiʎas ferˈnandeθ]; born 20 May 1981) is a Spanish football goalkeeper who plays for and captains both La Liga club Real Madrid and the Spanish national team. In 2008 he was the captain of the Spanish team that won their first European Championship in 44 years, the Spanish team that went on to win Spain's first World Cup (a tournament in which he won the Golden Glove and known as Yashin Award) and the 2012 European Championship.",
 	"perinfo":{
-		"Fullname":"Gaël Clichy",
-		"Dob":"1985-07-25T18:30:00.000Z",
-		"Pob":"Toulouse, France",
-		"Height":1.76,
-		"Playpos":"Left back"
+		"Fullname":"Iker Casillas Fernández",
+		"Dob":"20 May 1981",
+		"Pob":"Móstoles, Spain",
+		"Height":1.85,
+		"Playpos":"GoalKepper"
 	},
 	"images":[
-	   "image/clichy/clichy1.jpg",
-	   "image/clichy/clichy2.jpg",
-	   "image/clichy/clichy3.jpg",
-	   "image/clichy/clichy4.jpg",
-	   "image/clichy/clichy5.jpg",
-	   "image/clichy/clichy6.jpg"
+	  "image/casillas/casillas1.jpg",
+		"image/casillas/casillas1.jpg",
+		"image/casillas/casillas1.jpg",
+		"image/casillas/casillas1.jpg",
+		"image/casillas/casillas1.jpg",
+		"image/casillas/casillas1.jpg",
+
 	],
 	"clubs":[
-	   "Cannes",
-	   "Arsenal",
-	   "Manchester City"	]
+	   "Real Madrid"	]
 }
