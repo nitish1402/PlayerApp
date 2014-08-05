@@ -10,132 +10,132 @@
   },
 
   {
-    "long_name": "Cesc Febregas",
+    "long_name": "Raphael Varane",
     "stars": 4.0,
-    "short_name": "Febregas",
-    "sindex": 1,
-    "player_type": "MF",
-    "natural_role": "CM"
-  },
-  {
-    "long_name": "Manuel Almunia",
-    "stars": 3.0,
-    "short_name": "Almunia",
+    "short_name": "Varane",
     "sindex": 2,
-    "player_type": "GK",
-    "natural_role": "GK"
+    "player_type": "DF",
+    "natural_role": "CM/CB/LW"
   },
   {
-    "long_name": "Robin van Persie",
-    "stars": 4.0,
-    "short_name": "vanPersie",
+    "long_name": "Pepe",
+    "stars": 3.0,
+    "short_name": "Pepe",
     "sindex": 3,
-    "player_type": "AT/MF",
-    "natural_role": "RW/LF/RF/S"
+    "player_type": "DF/MF",
+    "natural_role": "CB/DF"
   },
   {
-    "long_name": "Johan Djourou",
-    "stars": 2.5,
-    "short_name": "Djourou",
+    "long_name": "Sergio Ramos",
+    "stars": 4.0,
+    "short_name": "Ramos",
     "sindex": 4,
     "player_type": "DF",
-    "natural_role": "CD"
+    "natural_role": "CB/AT/FB"
   },
   {
-    "long_name": "Nicklas Bendtner",
-    "stars": 3.0,
-    "short_name": "Bendtner",
-    "sindex": 5,
-    "player_type": "AT",
-    "natural_role": "LF/RF/S"
-  },
-  {
-    "long_name": "Emmanuel Eboue",
-    "stars": 3.0,
-    "short_name": "Eboue",
-    "sindex": 6,
-    "player_type": "DF/MF",
-    "natural_role": "RFB/RWB/RM"
-  },
-  {
-    "long_name": "Carlos Vela",
+    "long_name": "Fábio Coentrão",
     "stars": 2.5,
-    "short_name": "CarlosVela",
-    "sindex": 7,
-    "player_type": "AT",
-    "natural_role": "LF/S"
+    "short_name": "Coentrao",
+    "sindex": 5,
+    "player_type": "WB",
+    "natural_role": "WB/FB"
   },
   {
-    "long_name": "Abou Diaby",
+    "long_name": "Sami Khedira",
     "stars": 3.0,
-    "short_name": "Diaby",
+    "short_name": "Khedira",
+    "sindex": 6,
+    "player_type": "MF",
+    "natural_role": "DM/MF/AT"
+  },
+  {
+    "long_name": "Cristiano Ronaldo",
+    "stars": 3.0,
+    "short_name": "Ronaldo",
+    "sindex": 7,
+    "player_type": "F",
+    "natural_role": "AT/LW/CF/RW"
+  },
+  {
+    "long_name": "Toni Kroos",
+    "stars": 3.5,
+    "short_name": "Kroos",
     "sindex": 8,
     "player_type": "MF",
-    "natural_role": "CM"
+    "natural_role": "PM/W/MF/LB"
   },
   {
-    "long_name": "Theo Walcott",
+    "long_name": "Karim Benzema",
     "stars": 3.0,
-    "short_name": "Walcott",
+    "short_name": "Benzema",
     "sindex": 9,
+    "player_type": "AT",
+    "natural_role": "CF/AT"
+  },
+  {
+    "long_name": "James Rodríguez",
+    "stars": 3.0,
+    "short_name": "Rodriguez",
+    "sindex": 10,
     "player_type": "AT/MF",
     "natural_role": "RW/LF/RF"
   },
   {
-    "long_name": "Alex Song",
+    "long_name": "Gareth Bale",
     "stars": 3.0,
-    "short_name": "Song",
-    "sindex": 10,
-    "player_type": "MF",
-    "natural_role": "CDM"
-  },
-  {
-    "long_name": "Tomus Rosicky",
-    "stars": 3.5,
-    "short_name": "Rosicky",
+    "short_name": "Bale",
     "sindex": 11,
-    "player_type": "MF",
-    "natural_role": "CAM"
+    "player_type": "AT",
+    "natural_role": "MF/RW"
   },
   {
-    "long_name": "Kieran Gibbs",
-    "stars": 2.5,
-    "short_name": "Gibbs",
+    "long_name": "Marcelo",
+    "stars": 3.5,
+    "short_name": "Marcelo",
     "sindex": 12,
-    "player_type": "DF/MF",
-    "natural_role": "LFB/LWB/LW"
+    "player_type": "DF",
+    "natural_role": "RB/RW"
   },
   {
-    "long_name": "Denilson",
-    "stars": 3.0,
-    "short_name": "Denilson",
+    "long_name": "Keylor Navas",
+    "stars": 2.5,
+    "short_name": "Navas",
     "sindex": 13,
-    "player_type": "MF",
-    "natural_role": "CM"
-  },
-  {
-    "long_name": "Lukasz Fabianski",
-    "stars": 3.0,
-    "short_name": "Fabianski",
-    "sindex": 14,
     "player_type": "GK",
     "natural_role": "GK"
   },
   {
-    "long_name": "Bacary Sagna",
-    "stars": 3.5,
-    "short_name": "Sagna",
+    "long_name": "Xabi Alonso",
+    "stars": 3.0,
+    "short_name": "Xabi",
+    "sindex": 14,
+    "player_type": "MF",
+    "natural_role": "DMF/RB/PM"
+  },
+  {
+    "long_name": "Daniel Carvajal",
+    "stars": 3.0,
+    "short_name": "Carvajal",
     "sindex": 15,
+    "player_type": "DF",
+    "natural_role": "LB/LW"
+  },
+  {
+    "long_name": "Álvaro Arbeloa",
+    "stars": 3.5,
+    "short_name": "Arbeloa",
+    "sindex": 17,
     "player_type": "DF",
     "natural_role": "RFB"
   },
   {
-    "long_name": "Jack Wilshere",
+    "long_name": "Nacho Fernández",
     "stars": 3.0,
-    "short_name": "Wilshere",
-    "sindex": 16,
-    "player_type": "MF",
-    "natural_role": "CAM/LW"
+    "short_name": "Nacho",
+    "sindex": 18,
+    "player_type": "DF",
+    "natural_role": "LB"
   },
   {
     "long_name": "Samir Nasri",
@@ -146,43 +146,51 @@
     "natural_role": "CAM/RW"
   },
   {
-    "long_name": "Andrei Arshavin",
+    "long_name": " Luka Modrić",
     "stars": 4.0,
-    "short_name": "Arshavin",
-    "sindex": 18,
+    "short_name": "Modric",
+    "sindex": 19,
     "player_type": "AT/MF",
     "natural_role": "CAM/LF/RF/S"
   },
   {
-    "long_name": "Thomas Vermaelen",
+    "long_name": "Jesé Rodríguez",
     "stars": 3.5,
-    "short_name": "Vermaelen",
-    "sindex": 19,
-    "player_type": "DF",
-    "natural_role": "CD"
-  },
-  {
-    "long_name": "Marouane Chamakh",
-    "stars": 3.0,
-    "short_name": "Chamakh",
+    "short_name": "Jese",
     "sindex": 20,
-    "player_type": "AT",
-    "natural_role": "RF/S"
+    "player_type": "AT/FW",
+    "natural_role": "MF/AT"
   },
   {
-    "long_name": "Laurent Kocielny",
+    "long_name": " 	Ángel di María",
     "stars": 3.0,
-    "short_name": "Kocielny",
-    "sindex": 21,
-    "player_type": "DF",
-    "natural_role": "CD"
-  },
-  {
-    "long_name": "Sebastien Squillaci",
-    "stars": 3.0,
-    "short_name": "Squillaci",
+    "short_name": "DiMaria",
     "sindex": 22,
-    "player_type": "DF",
-    "natural_role": "CD"
+    "player_type": "F",
+    "natural_role": "LW/MF"
+  },
+  {
+    "long_name": "Isco",
+    "stars": 3.0,
+    "short_name": "Isco",
+    "sindex": 23,
+    "player_type": "MF",
+    "natural_role": "MF"
+  },
+  {
+    "long_name": "Asier Illarramendi",
+    "stars": 3.0,
+    "short_name": "Illarramendi",
+    "sindex": 24,
+    "player_type": "DF/MF",
+    "natural_role": "MF"
+  },
+  {
+    "long_name": "Diego López",
+    "stars": 3.0,
+    "short_name": "Lopez",
+    "sindex": 25,
+    "player_type": "GK",
+    "natural_role": "GK"
   }
 ]
