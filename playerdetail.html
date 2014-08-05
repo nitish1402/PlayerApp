@@ -4,7 +4,7 @@
 </div>
 <h3>Image Gallery</h3>
 	<div class="img-thumbnail" ng-repeat="img in player.images">
-		
+
 	    <img ng-src="{{img}}" width="100px" height="100px" ng-mouseover="setCurrent($index)">
 	</div>
 
@@ -23,7 +23,7 @@
 <div class="row">
 <ul>
 	<li>Full Name:{{player.perinfo.Fullname}}</li>
-	<li>Date of Birth:{{player.perinfo.Dob | date:''}}</li>
+	<li>Date of Birth:{{player.perinfo.Dob }}</li>
 	<li>Place of Birth:{{player.perinfo.Pob}}</li>
 	<li>Height:{{player.perinfo.Height}}</li>
 	<li>Playing Position:{{player.perinfo.Playpos}}</li>
