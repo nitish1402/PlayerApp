@@ -22,8 +22,6 @@
 	app.controller('playerDetail',['$scope','$routeParams','$http',function($scope,$routeParams,$http){
 		$scope.name = $routeParams.playerShort_name;
 
-		$http.get('js/'+$scope.name+'.json').success(function(data){
-
 		$http.get('js/players/'+$scope.name+'.json').success(function(data){
 
 			$scope.player = data;
