@@ -9,7 +9,7 @@
 			controller : 'MyController',
 			controllerAs : 'viewP'
 		}).
-		when('/players/:playerShort_name',{
+		when('/players/:player_name',{
 			templateUrl : 'playerdetail.html',
 			controller : 'playerDetail'
 
